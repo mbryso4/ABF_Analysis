@@ -1,1 +1,2 @@
 Each script will analyze ABF files recorded in sweeps for air pulse or laser stimulation or for spontaneous activity at the end of the file. 
+These require the following script (findpeaksx): https://terpconnect.umd.edu/~toh/spectrum/findpeaksx.m
